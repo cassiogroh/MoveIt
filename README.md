@@ -44,7 +44,7 @@ You can visualize the layout of this project through [this link](https://www.fig
 - Install dependencies using `yarn`
 - Run the app by typing `yarn dev`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+Now you can access [`localhost:3000`](http://localhost:3000) on your web browser.
 
 ## 📄 License
 
