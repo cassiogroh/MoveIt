@@ -52,4 +52,4 @@ This project is under the MIT license. See [LICENSE](LICENSE.md) for more detail
 
 ---
 
-Feito com ♥ by Rocketseat and recoded by me 👋🏻
+Made with ♥ by Rocketseat and recoded by me 👋🏻
